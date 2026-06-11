@@ -118,6 +118,3 @@ http://localhost/hospital-management/auth/login.php
 * Unit and integration testing.
 * Improved error logging and monitoring.
 
----
-git push origin main
-```
